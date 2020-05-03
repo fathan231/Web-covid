@@ -1,0 +1,93 @@
+body {
+  background: #89f8ce;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.form {
+  background: #fbf4f9;
+
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+  height: 600px;
+  margin-top: 10%;
+  margin-left: 38%;
+  width: 425px;
+}
+
+#isi {
+  padding: 10px 33px
+}
+
+#title {
+  font-family: "Raleway Thin", sans-serif;
+  letter-spacing: 4px;
+  padding-bottom: 23px;
+  padding-top: 13px;
+  text-align: center;
+}
+
+.garis {
+  background: #89f8ce;
+  height: 2px;
+  margin: -1.1rem auto 0 auto;
+  width: 89px;
+}
+
+label {
+  font-family: "Raleway Thin", sans-serif;
+  font-size: 11pt;
+}
+
+.bibi {
+  align-items: left;
+  display: flex;
+  flex-direction: column;
+}
+
+.border {
+  background: #89f8ce;
+  height: 1px;
+  width: 100%;
+}
+
+.nama {
+  background: #fbf4f9;
+  border: none;
+  outline: none;
+  padding-top: 14px;
+}
+
+.email {
+  background: #fbf4f9;
+  border: none;
+  outline: none;
+  padding-top: 14px;
+}
+
+.usr {
+  background: #fbf4f9;
+  border: none;
+  outline: none;
+  padding-top: 14px;
+}
+
+.psr {
+  background: #fbf4f9;
+  border: none;
+  outline: none;
+  padding-top: 14px;
+}
+
+#tmbl {
+  background: #89f8ce;
+  border: none;
+  border-radius: 21px;
+  cursor: pointer;
+  color: black;
+  font-family: sans-serif;
+  height: 42.3px;
+  margin: 0 auto;
+  margin-top: 29px;
+  width: 153px;
+}

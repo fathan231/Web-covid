@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#nvbr {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar {
+    background-color: #89f8ce;
+}
+
+.nav li {
+    padding: 0 10px;
+    float: right;
+    text-align: left;
+}
+
+.nav li a {
+    color: #4d4646 !important;
+    font-weight: 600;
+}
+
+.fa-arrow-down {
+    color: #4d4646;
+    font-size: 30px !important;
+}
+
+.navbar-toggler {
+    outline: none !important;
+}
